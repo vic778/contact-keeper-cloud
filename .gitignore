@@ -1,0 +1,15 @@
+node_modules
+.env
+
+
+# testing
+/client/coverage
+
+# production
+/client/build
+
+# misc
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
