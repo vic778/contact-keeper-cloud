@@ -43,15 +43,15 @@
 
 👤 **Victor Barh**
 
-- Github: [@cvilla714](https://github.com/vic/778)
-- Twitter: [@kckeyti](https://twitter.com/VictoirBarh)
-- LinkedIn: [Cosmel Villalobos](https://www.linkedin.com/victor-emmanuel-barh-a93900200/)
+- Github: [@vic778](https://github.com/vic/778)
+- Twitter: [@victoirEmmanuelBarh](https://twitter.com/VictoirBarh)
+- LinkedIn: [VictoirEmmanuelBArh](https://www.linkedin.com/victor-emmanuel-barh-a93900200/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cvilla714/https://vic778/contact-keeper.git/pulls).
+Feel free to check the [issues page](https://github.com/vic778/contact-keeper-cloud).
 
 ## Show your support
 
@@ -60,7 +60,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgment
 
 - Microverse
-- Marc-Antoine Roy on Behance
+- Openclassroom
 
 ## 📝 License
 
